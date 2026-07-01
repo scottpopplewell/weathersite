@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" width="240" height="160">
+  <!-- little sun -->
+  <circle cx="200" cy="35" r="18" fill="#fbbf24" />
+  <g stroke="#fbbf24" stroke-width="4" stroke-linecap="round">
+    <line x1="200" y1="5" x2="200" y2="13" />
+    <line x1="200" y1="57" x2="200" y2="65" />
+    <line x1="170" y1="35" x2="178" y2="35" />
+    <line x1="222" y1="35" x2="230" y2="35" />
+    <line x1="178" y1="13" x2="183" y2="18" />
+    <line x1="217" y1="52" x2="222" y2="57" />
+    <line x1="222" y1="13" x2="217" y2="18" />
+    <line x1="183" y1="52" x2="178" y2="57" />
+  </g>
+
+  <!-- goose body -->
+  <ellipse cx="90" cy="100" rx="55" ry="38" fill="#f3f4f6" stroke="#1f2937" stroke-width="3" />
+
+  <!-- goose wing -->
+  <path d="M55 95 Q90 70 120 100 Q90 110 55 95 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="2.5" />
+
+  <!-- goose neck + head -->
+  <path d="M120 85 Q140 40 115 25 Q95 15 90 35 Q85 55 110 60 Q118 62 120 85 Z"
+        fill="#f3f4f6" stroke="#1f2937" stroke-width="3" />
+
+  <!-- beak -->
+  <path d="M110 26 Q125 22 128 32 Q118 36 110 26 Z" fill="#f97316" stroke="#1f2937" stroke-width="2" />
+
+  <!-- eye -->
+  <circle cx="106" cy="33" r="3" fill="#1f2937" />
+
+  <!-- legs -->
+  <line x1="75" y1="136" x2="70" y2="152" stroke="#f97316" stroke-width="4" stroke-linecap="round" />
+  <line x1="105" y1="136" x2="110" y2="152" stroke="#f97316" stroke-width="4" stroke-linecap="round" />
+
+  <!-- names -->
+  <text x="120" y="150" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" font-weight="bold" fill="#1f2937">
+    IP + SP
+  </text>
+</svg>

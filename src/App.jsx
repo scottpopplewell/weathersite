@@ -65,6 +65,7 @@ function App() {
 
   return (
     <div className="app">
+      <img src="/logo.svg" alt="IP + SP logo, a goose" width="160" />
       <h1>🌦️ Our Weather App</h1>
       <p className="subtitle">Type a city name to see what the weather is like right now.</p>
 

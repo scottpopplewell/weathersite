@@ -12,7 +12,8 @@
       "Bash(pkill -f \"vite --port 5183\")",
       "Bash(sips *)",
       "Bash(pkill -f \"vite --port 5185\")",
-      "Bash(pkill -f \"vite --port 5186\")"
+      "Bash(pkill -f \"vite --port 5186\")",
+      "Bash(pkill -f \"vite --port 5187\")"
     ]
   }
 }
