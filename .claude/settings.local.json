@@ -9,7 +9,8 @@
       "Read(//tmp/**)",
       "Bash(curl -s http://localhost:5183/)",
       "Bash(curl *)",
-      "Bash(pkill -f \"vite --port 5183\")"
+      "Bash(pkill -f \"vite --port 5183\")",
+      "Bash(sips *)"
     ]
   }
 }
